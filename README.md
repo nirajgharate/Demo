@@ -1,2 +1,2 @@
 # Demo
-This is the demo for Git and Git hub
+This is the demo for Git and Git hub chapter.
